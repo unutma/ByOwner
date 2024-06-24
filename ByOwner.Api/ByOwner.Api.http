@@ -1,0 +1,6 @@
+@ByOwner.Api_HostAddress = http://localhost:5103
+
+GET {{ByOwner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
